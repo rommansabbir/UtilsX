@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "UtilsXApp"
 include ':app'
 include ':utilsx'
+include ':forceupdater'
