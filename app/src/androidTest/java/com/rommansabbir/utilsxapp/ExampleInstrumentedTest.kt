@@ -1,4 +1,4 @@
-package com.rommansabbir.utilsx
+package com.rommansabbir.utilsxapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

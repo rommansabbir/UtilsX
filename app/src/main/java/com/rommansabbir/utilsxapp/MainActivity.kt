@@ -1,4 +1,4 @@
-package com.rommansabbir.utilsx
+package com.rommansabbir.utilsxapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

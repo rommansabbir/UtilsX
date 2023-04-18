@@ -1,4 +1,4 @@
-package com.rommansabbir.utilsx
+package com.rommansabbir.utilsxapp
 
 import org.junit.Test
 
