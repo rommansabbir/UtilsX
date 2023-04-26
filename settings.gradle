@@ -16,3 +16,4 @@ rootProject.name = "UtilsXApp"
 include ':app'
 include ':utilsx'
 include ':forceupdater'
+include ':utilsxroot'
